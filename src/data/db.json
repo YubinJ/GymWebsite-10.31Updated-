@@ -1,0 +1,120 @@
+{
+  "memberRegister": [
+    {
+      "user": "sho",
+      "pass": "admin",
+      "authority": "admin",
+      "class": [],
+      "classHistory": [],
+      "id": 1
+    },
+    {
+      "user": "user2",
+      "pass": "12",
+      "authority": "member",
+      "class": [
+        2,
+        1
+      ],
+      "classHistory": [],
+      "id": 2
+    },
+    {
+      "user": "user3",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 3
+    },
+    {
+      "user": "user4",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 4
+    },
+    {
+      "user": "user5",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 5
+    },
+    {
+      "user": "user6",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 6
+    },
+    {
+      "user": "user7",
+      "pass": "1234",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 7
+    },
+    {
+      "user": "user10",
+      "pass": "10",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 8
+    }
+  ],
+  "class": [
+    {
+      "className": "キックボクシング",
+      "Time": "火、木 20:00~21:00",
+      "Instructor": "先生A",
+      "PICURL": "https://martial-art-concepts.com/wp-content/uploads/2019/11/Kickboxing-bag.jpg",
+      "id": 1
+    },
+    {
+      "className": "ブラジリアン柔術",
+      "Time": "火、木 21:00~22:00",
+      "Instructor": "先生B",
+      "PICURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+      "id": 2
+    },
+    {
+      "className": "総合格闘技",
+      "Time": "水 20:30~22:00",
+      "Instructor": "先生M",
+      "PICURL": "https://zebraathletics.com/wp-content/uploads/2018/11/ZC-CAGESS_SHOWCASE_CAGE-PRODUCT1-scaled.jpg",
+      "id": 3
+    }
+  ],
+  "news": [
+    {
+      "Title": "ショウ選手はXXX大会勝利",
+      "Time": "2023年9月18日",
+      "PICURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9znRcmollXF9QZ1XeOJiZYA3BoPkEB6-uZw&usqp=CAU",
+      "Content": "ショウ選手は、60キロのキックボクシングの試合で見事勝利しました。試合は非常に激しいもので、ショウ選手は彼の卓越したテクニックと戦術を駆使して対戦相手に立ち向かいました。初回から最後のラウンドまで、ショウ選手は高いキック、パンチ、そして膝蹴りを組み合わせた攻撃を繰り出しました。彼のダイナミックな動きと戦術的な判断力が、対戦相手に対する優位性を築きました。試合の結果、ショウ選手は対戦相手を圧倒し、判定においても一致した勝利を収めました。彼の勝利は、彼のトレーニングと努力の賜物であり、キックボクシング界における彼の名声を一層高めるものとなりました。ショウ選手のファンやサポーターは、彼の卓越した実力と専念に感銘を受け、今後の彼のキャリアに期待しています。この試合の勝利は、彼のキックボクシングのキャリアにおいて輝かしい一歩となりました。おめでとう、ショウ選手！",
+      "id": 1,
+      "Show": true
+    },
+    {
+      "Title": "9/17(日)、9/18(月・祝)のクラス予定",
+      "Time": "2023年9月15日",
+      "PICURL": "",
+      "Content": "9/17(日)、9/18(月・祝)はショウ選手が出場し前日計量もあるためクラススケジュールが以下のように変更になります。\n\n9/17(日)\n\n１号館 通常開館\n２号館 終日休館\n\n9/18(月・祝)\n\n１号館\n\n8:30～10:00 柔術(先生B)\n16:00～16:45 キック初心者(先生A)\n17:00～18:15 キッズ柔術(先生B)\n※夜の柔術クラスは休講\n\n２号館\n9:30～11:00 柔術自主練\n※通常のクラスは休講\n\nジム生の皆様、お気をつけください。",
+      "id": 2,
+      "Show": true
+    },
+    {
+      "Title": "9/17(日)、9/18(月・祝)のクラス予定333",
+      "Time": "2023年9月15日",
+      "PICURL": "URL123",
+      "Content": "!!!!!",
+      "id": 3,
+      "Show": false
+    }
+  ]
+}
